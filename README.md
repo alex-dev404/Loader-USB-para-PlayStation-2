@@ -1,6 +1,6 @@
 <h1>Loader-USB-para-PlayStation-2</h1>
 
-<p>Este projeto tem como objetivo economizar espaço no memory card do PlayStation 2, permitindo que o Open PS2 Loader (OPL) seja carregado diretamente de um pendrive. Dessa forma, não é necessário ter o ELF do OPL no memory card de 8 MB. O carregador USB que estou desenvolvendo funcionará de maneira semelhante ao <a href="https://github.com/ps2homebrew/wLaunchELF">wLaunchELF</a>, mas com uma interface muito mais simples e um tamanho de arquivo reduzido, estimando que meu ELF ocupará cerca de 0,1 MB, enquanto o OPL normalmente pesa em média 1,5 MB.</p>
+<p>Este projeto tem como objetivo economizar espaço no memory card do PlayStation 2, permitindo que o Open PS2 Loader (OPL) seja carregado diretamente de um pendrive. Dessa forma, não é necessário ter o ELF do OPL no memory card de 8 MB. O carregador USB que estou desenvolvendo funcionará de maneira semelhante ao <a href="https://github.com/ps2homebrew/wLaunchELF">wLaunchELF</a>, e parte do código foi baseada nele. Este carregador terá uma interface muito mais simples e um tamanho de arquivo reduzido, estimando que meu ELF ocupará cerca de 0,1 MB, enquanto o OPL normalmente pesa em média 1,5 MB.</p>
 
 <h2>Motivação</h2>
 <p>A ideia deste projeto surgiu da necessidade de otimizar o espaço disponível no memory card, que pode ser rapidamente consumido por saves de jogos e outros arquivos. Com essa abordagem, os usuários poderão liberar espaço valioso para salvar mais dados no memory card.</p>
