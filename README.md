@@ -12,7 +12,7 @@
 <p>O caminho completo para o ELF deve ser <strong>mass0:/BOOT/OPL.ELF</strong>. Assim, o carregador poderá localizar e carregar o arquivo corretamente.</p>
 
 <h2>Motivação</h2>
-<p>A ideia deste projeto surgiu da necessidade de otimizar o espaço disponível no memory card, que pode ser rapidamente consumido por saves de jogos e outros arquivos. Com essa abordagem, os usuários poderão liberar espaço valioso para salvar mais dados no memory card.</p>
+<p>A ideia deste projeto surgiu da necessidade de otimizar o espaço disponível no memory card, que pode ser rapidamente consumido por saves de jogos e outros arquivos. Com essa abordagem, os usuários poderão liberar espaço valioso para salvar mais dados no memory card e tambem podem testar novas versões de apps sem precisar está usando Wlauncher para mover os programas para o memory card toda hora.</p>
 
 <h2>Contribuições</h2>
 <p>Esse projeto ainda é muito grande para mim. Apesar de ser algo simples, ainda estou estudando desenvolvimento para o PS2 e abri este repositório com a intenção de guardar a ideia e ir avançando aos poucos. Além disso, também estou aberto a colaborações; caso algum desenvolvedor da comunidade esteja interessado em ajudar, ficaria muito grato. Acredito que a implementação seja fácil para quem já tem experiência, e pode ser que o projeto ainda não tenha recebido atenção devido à escassez de aplicações depois do sistema VLC do OPL, que salva os saves de PS2 em um pendrive como um memory card virtual. No entanto, vejo isso como uma ideia interessante para quem tem o pendrive cheio e o memory card também.</p>
