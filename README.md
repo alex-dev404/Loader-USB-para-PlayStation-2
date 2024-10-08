@@ -7,7 +7,7 @@
 <ol>
     <li>Mova a pasta chamada <strong>BOOT</strong> (contendo o arquivo <strong>Loader-USB.ELF</strong>) para a raiz do seu memory card.</li>
     <li>Segure o botão <strong>R1</strong> no controle enquanto liga o videogame.</li>
-    <li>Crie a Pasta <strong>BOOT<strong> e Coloque o <strong>OPL</strong> no pendrive seguindo este caminho <strong>mass0:/BOOT/OPL.ELF</strong>.</li>
+    <li>Crie a Pasta <strong>BOOT</strong>e Coloque o <strong>OPL</strong> dentro dela no pendrive seguindo este caminho <strong>mass0:/BOOT/OPL.ELF</strong>.</li>
 </ol>
 <p>O caminho completo para o ELF deve ser <strong>mass0:/BOOT/OPL.ELF</strong>. Assim, o carregador poderá localizar e carregar o arquivo corretamente.</p>
 
